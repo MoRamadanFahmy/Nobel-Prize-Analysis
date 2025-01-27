@@ -21,7 +21,7 @@ This project involves the exploration and analysis of the Nobel Prize dataset to
 5. Visualizations
    * Line plots of trends in female laureates by decade and category using Seaborn.
 6. Data Filtering
-* Subsetting data to focus on specific demographics or prize categories.
-* Identification of laureates with exceptional achievements (e.g., multiple prize winners).
+  * Subsetting data to focus on specific demographics or prize categories.
+  * Identification of laureates with exceptional achievements (e.g., multiple prize winners).
 ## 📓Notebook
 - <a href="source.ipynb">Notebook</a>
